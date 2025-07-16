@@ -1,5 +1,5 @@
 # Parking Lot
 
-## Class Design
+## Class Diagram
 
 ![ParkingLot.png](ParkingLotClassDiagram.png)
