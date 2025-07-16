@@ -2,4 +2,4 @@
 
 ## Class Design
 
-![img.png](img.png)
+![ParkingLot.png](ParkingLotClassDiagram.png)
